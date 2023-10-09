@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- *  * main - Entry point
- *   * Description: assign a random number to the variable n.
- *    * Return: 0 always success
- *     */
+ * main - Entry point
+ * Description: assign a random number to the variable n.
+ * Return: 0 always success
+ */
 
 int main(void)
 {

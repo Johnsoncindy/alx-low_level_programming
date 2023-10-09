@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- *  * main - Entry point
- *   * Description:Assign random number to each variable
- *    * Return: always 0
- *     */
+ * main - Entry point
+ * Description:Assign random number to each variable
+ * Return: always 0
+ */
 
 int main(void)
 {
