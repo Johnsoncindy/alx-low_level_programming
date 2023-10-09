@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Task prints all the numbers from 00 to 99.
- * (*
+(*
  * Return: 0 on success
  */
 int main(void)
